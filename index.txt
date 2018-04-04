@@ -3,4 +3,7 @@ Hello Tribune peeps!!:)
 This is Himani's first commit...............
 
 Please merge this line to Master - Nitin
+
+This is Himani's second commit...............
+
 Adding another line
