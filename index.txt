@@ -6,3 +6,5 @@ Adding another line
 rebase line 1
 
 rebase line 2
+
+rebase line 3
